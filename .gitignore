@@ -1,0 +1,17 @@
+# Sublime Text
+*.sublime-workspace
+
+# Bundler
+.bundle
+vendor/
+Gemfile.lock
+
+# Node
+node_modules/
+
+# Jekyll
+build/
+.jekyll-cache/
+.jekyll-metadata
+
+.env
