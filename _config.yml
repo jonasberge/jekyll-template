@@ -5,7 +5,6 @@ destination: ./build
 plugins:
   - jekyll-include-cache
   - jekyll-assets
-  - jekyll-minifier
 
 exclude:
   - Rakefile
